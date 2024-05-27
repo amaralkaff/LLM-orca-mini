@@ -13,8 +13,8 @@ A simple web application to chat with a large language model (LLM) using the Orc
 1. Clone the repository and navigate to the project directory:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/amaralkaff/learn-orca-mini
+   cd learn-orca-mini
    ```
 
 2. Install dependencies:
